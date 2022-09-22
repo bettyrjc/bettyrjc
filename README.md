@@ -1,5 +1,5 @@
 ### Hi  👋
-![enter image description here](https://i.ibb.co/ZW5cBG9/BANNER2.png)
+![enter image description here](https://ibb.co/5vdRHr4)
 Hi, I'm Betty Frontend Developer with React.
 
 - 💻️ Actually I'm working as a Software Engineer I Frontend.
