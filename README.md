@@ -1,9 +1,9 @@
 ### Hi  👋
 ![enter image description here](https://i.ibb.co/60QJ7Gc/Inno-Devs-7.png)
-Hi, I'm Betty Frontend Developer. I distinguish myself by my collaboration in teamwork and adaptability to changes and grow.
+Hi, I'm Betty Frontend Developer. I distinguish myself by being collaborative with my team, I enjoy teamwork and I adapt to changes in order to grow.
 
-- 💻️ Actually I'm working as a Software Engineer  Frontend in React.js.
-- 🌱 I’m currently work with React.js, TypeScript and Tailwind.
+- 💻️ I have more than 3 years experience as a Frontend Engineer .
+- 🌱 I’m currently working with React.js, TypeScript and Tailwind.
 - -🐍 I love React native and Swift.
 
 
